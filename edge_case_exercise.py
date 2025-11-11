@@ -4,7 +4,6 @@ return my_list
    elif index of one == len(my_list) - 1 and direction == "right"
 return my_list
 
-
 def move(my_list, direction): 
   index_of_one == my_list.index(1)
   if direction == "left":
