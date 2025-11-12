@@ -1,4 +1,5 @@
 def approximate_pi(n_terms):
+    pass # replace pass with your code
   total_sum = 0
   denominator = 1
   sign = 1
