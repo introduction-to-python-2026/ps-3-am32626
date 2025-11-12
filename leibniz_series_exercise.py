@@ -7,8 +7,8 @@ def approximate_pi(n_terms):
     denominator = 1
 
     sign = 1
-
-for i in range(n_terms):
+    n_terms = 10
+    for i in range(n_terms):
 
     correct_term = sign / denominator
 
