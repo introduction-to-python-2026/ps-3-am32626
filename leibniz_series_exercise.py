@@ -10,6 +10,3 @@ for i in range(n_terms):
     sign = sign * -1
     result = total_sum * 4
 return result
-    
-
-
