@@ -1,8 +1,8 @@
 def approximate_pi(n_terms):
     pass # replace pass with your code
-  total_sum = 0
-  denominator = 1
-  sign = 1
+    total_sum = 0
+    denominator = 1
+    sign = 1
 for i in range(n_terms):
     correct_term = sign / denominator
     total_sum = total_sum + correct_turm
